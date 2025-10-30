@@ -1,8 +1,5 @@
 #  Hello, I'm Maria 
 
-I’m a 20-year-old frontend developer from **Yekaterinburg** 💻, studying Computer Science and Engineering at **IRIT-RTF**.                                             
-I enjoy working on interesting projects and learning new things along the way 🌟.
-
 ### 🛠 &nbsp;Tech Stack
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)&nbsp;
